@@ -1,0 +1,21 @@
+{
+  "name": "electron-darker",
+  "displayName": "Electron Darker",
+  "description": "Darker variant of the Electron Color Theme by Kus Cámara with improved language support (Typescript, React, C#)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Electron Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Electron Darker-color-theme.json"
+      }
+    ]
+  }
+}
