@@ -1,4 +1,4 @@
-# electron-darker README
+# README
 
 ## Working with Markdown
 
